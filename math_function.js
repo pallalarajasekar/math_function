@@ -162,6 +162,7 @@ module.exports.compact=compact;
 
 
 
+/*
 // Export lodash.
 var _ = runInContext();
 
@@ -192,3 +193,4 @@ else {
     root._ = _;
 }
 //}.call(this));
+*/
