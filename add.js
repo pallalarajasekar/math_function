@@ -127,3 +127,31 @@ function isObjectLike(value) {
 module.exports = add;
 
 
+function compact(array) {
+
+    var index = -1,
+        length = array ? array.length : 0,
+        resIndex = 0,
+        result = [];
+
+    while (++index < length) {
+
+
+        var value = array[index];
+
+
+
+        if (value) {
+
+            result[resIndex++] = value;
+
+
+        }
+    }
+    console.log("result:"+result);
+
+    return result;
+
+}
+
+module.exports=compact;
