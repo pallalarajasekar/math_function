@@ -124,7 +124,7 @@ function isObjectLike(value) {
 
 
 
-module.exports = add;
+module.exports.add = add;
 
 
 function compact(array) {
@@ -154,11 +154,11 @@ function compact(array) {
 
 }
 
-module.exports=compact;
+module.exports.compact=compact;
 
-math_function.add = add;
+//math_function.add = add;
 
-math_function.compact=compact;
+//math_function.compact=compact;
 
 
 
