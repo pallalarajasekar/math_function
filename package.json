@@ -2,7 +2,7 @@
   "name": "math_function",
   "version": "1.3.0",
   "description": "say math functions",
-  "main": "add.js",
+  "main": "math_function.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
