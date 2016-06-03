@@ -1,6 +1,6 @@
 {
   "name": "math_function",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "say math functions",
   "main": "math.js",
   "scripts": {
