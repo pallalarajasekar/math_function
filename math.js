@@ -124,4 +124,4 @@ function isObjectLike(value) {
 
 
 
-module.exports = math;
+module.exports = add;
