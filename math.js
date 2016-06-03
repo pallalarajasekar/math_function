@@ -121,3 +121,7 @@ function isObjectLike(value) {
 //var objectToString = objectProto.toString;
 
 //console.log(add("5",6))
+
+
+
+module.exports = math;
